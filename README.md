@@ -1,7 +1,7 @@
 # BloggySource
 ## Um SaaS de blog pra deixar tudo sob controle!
 
-Bem vindo(a) a esta documentação técnica, antes de começarmos, gostaria de dizer que caso você queira apenas **realizar a execução do BloggySource** e não precisa entender sobre cada detalhe do serviço, recomendo dar uma olhadinha no [Tutorial de Uso](https://github.com/Hsyst/BloggySource/blob/main/tutorial-de-uso.md). Dito isso, vamos continuar!
+Bem vindo(a) a esta documentação técnica, antes de começarmos, gostaria de dizer que caso você queira apenas **realizar a execução do BloggySource** e não precisa entender sobre cada detalhe do serviço, recomendo dar uma olhadinha no [Tutorial de Uso](https://github.com/Hsyst-Essentials/BloggySource/blob/main/tutorial-de-uso.md). Dito isso, vamos continuar!
 
 ## Índice
 - Introdução (BloggySource)
@@ -38,7 +38,7 @@ Linha 100 (Configuração de diretório da database)
 Linhas 201 e 202 - Comentar linha 202 e descomentar linha 203 (Senha fixa do admin) // Descomentar linha 202 e comentar 203 (Senha variável do admin)
 
 # Créditos
-Este código está sob a licença [MIT](https://github.com/Hsyst/BloggySource/blob/main/LICENSE) e foi criado pela Thais [(op3n/op3ny)](https://github.com/op3ny)
+Este código está sob a licença [MIT](https://github.com/Hsyst-Essentials/BloggySource/blob/main/LICENSE) e foi criado pela Thais [(op3n/op3ny)](https://github.com/op3ny)
 
 # Finalização
 Agradeço por estar interessado(a) neste código, e espero ter contribuido de alguma forma, bom proveito, e até mais!
